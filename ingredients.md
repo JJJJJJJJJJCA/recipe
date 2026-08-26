@@ -1,4 +1,5 @@
-Ingredients
+Ingredients:
+
 •	2 to 3 pounds flanken-style beef short ribs (cut thin across the bone)
 •	½ cup soy sauce
 •	¼ cup water
@@ -8,3 +9,4 @@ Ingredients
 •	2 tablespoons toasted sesame oil
 •	½ small onion, grated or blended smooth
 •	½ teaspoon black pepper
+
