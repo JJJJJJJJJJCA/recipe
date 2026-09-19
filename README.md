@@ -7,3 +7,4 @@ last line changed locally
 
 Create an ordered or unordered list
 Make some words **bold** or *italicized*
+![Include the recipe.jpg](recipe.jpg)
