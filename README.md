@@ -6,3 +6,4 @@ last line changed locally
 ### This is a REMOTE change :O
 
 Create an ordered or unordered list
+Make some words **bold** or *italicized*
